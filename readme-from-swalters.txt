@@ -1,0 +1,1 @@
+I forked this public github repo based on a recommendation in an Adobe RH webinar because I think it might help me to map the formatting styles we'll need in order to have RH and MS Word play nicely. See my research notes for more detail: https://docs.google.com/document/d/1c4c9Z8IA2LoQkuJiEw7dP5EhbuCXTCnm4Fh3x6gaBA0/edit#
